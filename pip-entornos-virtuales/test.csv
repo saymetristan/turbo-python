@@ -1,0 +1,25 @@
+Fecha,Pedido,Cantidad,Descripción,Descripción 2,Descripción 3,Costo unitario,Costo Total,Precio de venta,Envios,Precio Total,Cliente,Tipo de venta,Tipo de venta P&L
+01/01/2022,1,3,Ibuprofeno,400mg c/10 tabletas,Vacio,$0.50,$1.50,$2.00,Vacio,$6.00,1,Vacio,B2B2C
+02/01/2022,2,1,Acetaminofén,500mg c/20 tabletas,Vacio,$0.20,$0.20,$0.50,Vacio,$0.50,2,Vacio,B2B2C
+03/01/2022,3,2,Aspirina,500mg c/30 tabletas,Vacio,$0.30,$0.60,$1.00,Vacio,$2.00,1,Vacio,B2B2C
+05/02/2022,4,5,Vitaminas B,Complejo B 60 comprimidos,Vacio,$0.70,$3.50,$6.00,Vacio,$30.00,3,Vacio,B2C
+15/02/2022,5,1,Antibiótico,500mg c/10 tabletas,Vacio,$1.00,$1.00,$2.50,Vacio,$2.50,4,Vacio,B2C
+22/02/2022,6,2,Ibuprofeno,400mg c/10 tabletas,Vacio,$0.50,$1.00,$1.50,Vacio,$3.00,1,Vacio,B2C
+10/03/2022,7,3,Acetaminofén,500mg c/20 tabletas,Vacio,$0.20,$0.60,$1.50,Vacio,$4.50,2,Vacio,B2B
+20/03/2022,8,1,Aspirina,500mg c/30 tabletas,Vacio,$0.30,$0.30,$0.80,Vacio,$0.80,5,Vacio,B2B
+01/04/2022,9,2,Ibuprofeno,400mg c/10 tabletas,Vacio,$0.50,$1.00,$1.80,Vacio,$3.60,3,Vacio,B2B2C
+05/04/2022,10,3,Paracetamol,500mg c/10 tabletas,Vacio,$0.40,$1.20,$2.50,Vacio,$7.50,4,Vacio,B2B2C
+08/05/2022,11,4,Ibuprofeno,400mg c/10 tabletas,Vacio,$0.50,$2.00,$3.00,Vacio,$12.00,1,Vacio,B2B2C
+15/05/2022,12,2,Aspirina,500mg c/30 tabletas,Vacio,$0.30,$0.60,$1.50,Vacio,$3.00,2,Vacio,B2B
+25/05/2022,13,1,Antibiótico,500mg c/10 tabletas,Vacio,$1.00,$1.00,$2.50,Vacio,$2.50,5,Vacio,B2B
+10/06/2022,14,5,Paracetamol,500mg c/10 tabletas,Vacio aun,$1.00,$1.00,$2.00,Vacio aun,2.00,2,Vacio,B2B2C
+11/07/2022,14,5,Paracetamol,500mg c/10 tabletas,Vacio aun,$1.00,$1.00,$2.00,Vacio aun,2.00,2,Vacio,B2B2C
+12/07/2022,15,5,Ibuprofeno,400mg c/10 tabletas,Vacio aun,$1.50,$1.50,$3.00,Vacio aun,3.00,3,Vacio,B2B2C
+13/07/2022,15,5,Ibuprofeno,400mg c/10 tabletas,Vacio aun,$1.50,$1.50,$3.00,Vacio aun,3.00,4,Vacio,B2B2C
+14/07/2022,16,5,Aspirina,500mg c/10 tabletas,Vacio aun,$2.00,$2.00,$4.00,Vacio aun,4.00,5,Vacio,B2B2C
+15/08/2022,17,5,Paracetamol,500mg c/10 tabletas,Vacio aun,$1.00,$1.00,$2.00,Vacio aun,2.00,1,Vacio,B2B2C
+16/09/2022,17,5,Paracetamol,500mg c/10 tabletas,Vacio aun,$1.00,$1.00,$2.00,Vacio aun,2.00,2,Vacio,B2B2C
+17/10/2022,18,5,Aspirina,500mg c/10 tabletas,Vacio aun,$2.00,$2.00,$4.00,Vacio aun,4.00,3,Vacio,B2B2C
+18/10/2022,18,5,Aspirina,500mg c/10 tabletas,Vacio aun,$2.00,$2.00,$4.00,Vacio aun,4.00,4,Vacio,B2B2C
+19/11/2022,19,5,Paracetamol,500mg c/10 tabletas,Vacio aun,$1.00,$1.00,$2.00,Vacio aun,2.00,5,Vacio,B2B2C
+20/12/2022,20,5,Ibuprofeno,400mg c/10 tabletas,Vacio aun,$1.50,$1.50,$3.00,Vacio aun,3.00,1,Vacio,B2B2C
